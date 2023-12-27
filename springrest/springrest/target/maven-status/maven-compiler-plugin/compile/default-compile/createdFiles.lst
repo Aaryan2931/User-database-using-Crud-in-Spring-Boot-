@@ -1,0 +1,3 @@
+com\springrest\springrest\entities\Course.class
+com\springrest\springrest\dto\CourseDelete.class
+com\springrest\springrest\repository\CourseRepo.class
